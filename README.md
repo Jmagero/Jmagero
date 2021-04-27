@@ -1,5 +1,5 @@
 <h1>Hi! I'm Jocyline Magero
-<img src="https://media.giphy.com/media/GfjeYlRzhb5fNzG2XU/giphy.gif" width="100"><br></h1>
+<img src="https://media.giphy.com/media/GfjeYlRzhb5fNzG2XU/giphy.gif" width="50"><br></h1>
 
 <h2>About me</h2>
 <p>Learning something new everyday</p>
