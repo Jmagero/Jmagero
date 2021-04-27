@@ -1,19 +1,19 @@
-<h1 align='center'>Hi! I'm Jocyline Magero
-<img align="center" src="https://media.giphy.com/media/GfjeYlRzhb5fNzG2XU/giphy.gif" width="100"><br></h1>
+<h1>Hi! I'm Jocyline Magero
+<img src="https://media.giphy.com/media/GfjeYlRzhb5fNzG2XU/giphy.gif" width="100"><br></h1>
 
-<h2 align = "center">About me</h2>
--Learning something new everyday
-- Currently student at microverse
-- I love reading novels
-
-
+<h2>About me</h2>
+<p>Learning something new everyday</p>
+<p>Currently student at microverse</p>
+<p>I love reading novels</p>
 
 ![Jocyline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jmagero&show_icons=true&theme=radical)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jocyline%20Magero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jocyline-magero-9592b0145/)](https://www.linkedin.com/in/jocyline-magero-9592b0145/)
 [![Twitter Badge](https://img.shields.io/badge/-@magero_jocyline_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/magero_jocyline)](https://twitter.com/magero_jocyline)
 
 <br />
 
-## Portifolio
+## Portfolio
+![my portfolio]https://jmagero.github.io/personal-portfolio/
 
