@@ -15,5 +15,5 @@
 <br />
 
 ## Portfolio
-![my portfolio](https://jmagero.github.io/personal-portfolio/)
+[my portfolio](https://jmagero.github.io/personal-portfolio/)
 
