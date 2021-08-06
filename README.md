@@ -1,5 +1,5 @@
-## Hi!:blush:
-<p>I'm Jocyline Magero </p>
+## Hi! :blush:,
+<h1>I'm Jocyline Magero </h1>
 
 A full-stack software developer passionate about writing clean code and developing solutions that impact the world positively. I enjoy working with the following technologies, RESTful APIs, Ruby on Rails, JavaScript.
 
