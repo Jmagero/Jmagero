@@ -1,11 +1,10 @@
-## Hi! :blush:
-<h1>I'm Jocyline Magero </h1>
+## Hi! :wave: <h1>I'm Jocyline Magero </h1>
 
 A full-stack software developer passionate about writing clean code and developing solutions that impact the world positively. I enjoy working with the following technologies, RESTful APIs, Ruby on Rails, JavaScript.
 
 <li>:abacus: Currently, exploring and gaining developmental experience on JavaScript and React</li>
 <li>:mailbox_with_mail:How to reach me: jmagero2017@gmail.com</li>
-<li>:Fun fact:Humans are the only animals that blush</li>
+<li>Fun fact:Humans are the only animals that blush</li>
 <li>:smile: Pronouns: She/Her</li>
 
 ### Let's connect
