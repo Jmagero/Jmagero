@@ -1,6 +1,6 @@
 ## Hi! :wave: <h1>I'm Jocyline Magero </h1>
 
-A full-stack software developer passionate about writing clean code and developing solutions that impact the world positively. I enjoy working with the following technologies, RESTful APIs, Ruby on Rails, JavaScript.
+A full-stack software developer passionate about writing clean code and developing solutions that impact the world positively.
 
 <li>:abacus: Currently, exploring and gaining developmental experience on JavaScript and React</li>
 <li>:mailbox_with_mail:How to reach me: jmagero2017@gmail.com</li>
@@ -74,6 +74,4 @@ These are some of the technologies and tools that I work with:
 
 
 
-![Jocyline's Github stats](https://github-readme-stats.vercel.app/api?username=Jmagero&theme=blue-green)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jmagero&theme=blue-green)
+![Jocyline's Github stats](https://github-readme-stats.vercel.app/api?username=Jmagero&theme=blue-white)
