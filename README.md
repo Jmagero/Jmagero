@@ -1,5 +1,6 @@
-<h1>Hi! I'm Jocyline Magero
-<img src="https://media.giphy.com/media/GfjeYlRzhb5fNzG2XU/giphy.gif" width="50"><br></h1>
+<h1>Hi! I'm Jocyline Magero</h1>
+<br>smile
+
 
 <h2>About me</h2>
 <p>Learning something new everyday</p>
@@ -16,4 +17,4 @@
 
 ## Portfolio
 [my portfolio](https://jmagero.github.io/personal-portfolio/)
-
+<p>:grinning:</p>
