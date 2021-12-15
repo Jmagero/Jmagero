@@ -15,7 +15,7 @@ A full-stack software developer passionate about writing clean code and developi
 <br />
 
 ### Portfolio
-[Link](https://elastic-lovelace-b6a2ab.netlify.app/)
+[Portfolio](https://jmagero.netlify.app/)
 
 #### ⚡ Technologies
 
