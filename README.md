@@ -2,7 +2,6 @@
 
 A full-stack software developer passionate about writing clean code and developing solutions that impact the world positively.
 
-<li>:abacus: Currently, exploring and gaining developmental experience on JavaScript and React</li>
 <li>:mailbox_with_mail:How to reach me: jmagero2017@gmail.com</li>
 <li>Fun fact:Humans are the only animals that blush</li>
 <li>:smile: Pronouns: She/Her</li>
